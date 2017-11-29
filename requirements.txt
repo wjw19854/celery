@@ -1,0 +1,4 @@
+celery
+celery[redis]
+ipython==5.4.1
+flower
